@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Decentralized applications**
 
-- 🌱 I’m currently learning **Internet Computer Protocal, Motoko**
+- 🌱 I’m currently learning **Internet Computer Protocol, Motoko**
 
 - 👨‍💻 All of my projects are available below [👇](👇)
 
