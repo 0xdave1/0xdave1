@@ -1,92 +1,132 @@
-<h1 align="center">Hi 👋, I'm 0xdave</h1>
-<h3 align="center">A passionate Frontend and Web3 developer from Nigeria</h3>
+<h1 align="center">Hi, I’m David Joseph.</h1>
+<h3 align="center">Software Engineer · 0xdave</h3>
+<p align="center">Nigeria / Remote</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdave1&label=Profile%20views&color=0e75b6&style=flat" alt="0xdave1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdave1" alt="0xdave1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/0xdave1_" target="blank"><img src="https://img.shields.io/twitter/follow/0xdave1_?logo=twitter&style=for-the-badge" alt="0xdave1_" /></a> </p>
-
-- 🔭 I’m currently working on **Decentralized applications**
-
-- 🌱 I’m currently learning **Internet Computer Protocol, Motoko**
-
-- 👨‍💻 All of my projects are available below [👇](👇)
-
-- 💬 Ask me about **Blockchains**
-
-- ⚡ Fun fact **I am so Handsome!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0xdave1_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="web3fluxx" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/davidjosepht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/davidjosepht/?trk=opento_sprofile_details" height="30" width="40" /></a>
+<p align="center">
+  I build reliable software products for startups, AI tools, and digital platforms.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <!-- Mocha -->
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- Express (white icon) -->
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express" title="Express.js" width="40" height="40" style="background-color: white; border-radius: 6px; padding: 2px;"/>
-</a>
+<p align="center">
+  Software Engineer focused on building scalable web applications, backend systems, AI-powered workflows, and production-ready user experiences using TypeScript, React, Next.js, NestJS, PostgreSQL, and modern automation tools.
+</p>
 
-  <!-- Solidity -->
-  <a href="https://docs.soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
-  </a>
-  <!-- Motoko -->
-  <a href="https://internetcomputer.org/docs/current/developer-docs/motoko" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/54423867?s=200&v=4" alt="motoko" width="40" height="40"/>
-  </a>
+<p align="center">
+  <a href="#projects"><strong>View Projects</strong></a> ·
+  <a href="#contact"><strong>Contact Me</strong></a> ·
+  <a href="#download-cv"><strong>Download CV</strong></a>
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xdave1&show_icons=true&locale=en&layout=compact" alt="0xdave1" /></p>
+## Navigation
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xdave1&show_icons=true&locale=en" alt="0xdave1" /></p>
+- Home
+- About
+- Experience
+- Projects
+- Skills
+- Contact
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xdave1&" alt="0xdave1" /></p>
+## Home
+
+## About
+
+I’m a Software Engineer focused on building practical, production-ready applications across web, backend, automation, and AI-driven systems. I enjoy working close to product problems, turning ideas into usable software, and shipping features that solve real business needs.
+
+My work spans startup platforms, investment systems, AI personal assistants, Web3 interfaces, and marketplace products. I care about clean architecture, reliable APIs, good user experience, and building systems that can grow beyond the first version.
+
+## Experience
+
+### Founding Engineer — Cohold
+**Location:** Nigeria / Remote  
+**Date:** 2025 – Present
+
+Building core systems for a fractional real estate investment platform connecting investors with property-backed opportunities.
+
+- Leading engineering efforts across backend services, dashboards, authentication, investment workflows, wallet systems, and admin operations.
+- Architected and developed backend services using NestJS, PostgreSQL, Prisma, and REST APIs.
+- Built authentication, authorization, wallet management, KYC workflows, and investment lifecycle systems.
+- Integrated payment infrastructure, transaction processing, and notification services.
+- Developed investor and administrative dashboards using Next.js and React.
+- Improved platform security, operational reliability, and production readiness through validation, testing, and deployment improvements.
+
+### Software Engineer — Triggerly
+**Location:** Remote  
+**Date:** 2025 – Present
+
+Building an AI-powered personal assistant platform focused on reminders, automation, intelligent workflows, and task execution.
+
+- Developing backend services for scheduling, reminders, trigger execution, and workflow orchestration.
+- Integrating AI models, agent workflows, automation pipelines, and productivity-focused user flows.
+- Designing scalable architecture for multi-platform deployment across web and mobile.
+- Working on product logic for voice interaction, push notifications, task confirmation, and intelligent assistant actions.
+
+### Software Engineer Contract — Flio Academy
+**Location:** Remote  
+**Date:** 2024 – 2025
+
+Built and delivered a responsive Web3 marketing website for a memecoin campaign.
+
+- Built and deployed a responsive marketing website for a Web3 memecoin initiative.
+- Developed modern frontend experiences optimized for engagement, mobile responsiveness, and campaign storytelling.
+- Collaborated directly with stakeholders to translate brand requirements into production-ready pages.
+- Improved user experience and performance across multiple device sizes.
+
+## Projects
+
+### Lottery dApp
+**Stack:** Solidity, React, Ethereum
+
+A decentralized lottery application enabling transparent and trustless participation through smart contracts.
+
+- Developed Solidity smart contracts for ticket purchases, winner selection, and prize distribution.
+- Built React interfaces for contract interaction and lottery participation.
+- Integrated wallet connectivity and blockchain transaction handling.
+- Designed the app flow for transparent user participation on Ethereum.
+
+### GreenHarvest
+**Stack:** React, Node.js, MongoDB
+
+An agritech marketplace connecting farmers, buyers, and produce stakeholders through digital marketplace workflows.
+
+- Built features for produce listings, inventory management, and marketplace dashboards.
+- Developed API-driven workflows connecting frontend interfaces with backend services.
+- Contributed to backend logic, database structure, and user-facing marketplace features.
+- Improved usability for farmers and buyers interacting with agricultural produce listings.
+
+### Triggerly
+**Stack:** TypeScript, Node.js, AI Agents, Automation
+
+An AI personal assistant product for reminders, workflow automation, task execution, and intelligent notifications.
+
+- Built product architecture for smart reminders, triggers, and automated actions.
+- Designed assistant workflows around user confirmation before executing sensitive tasks.
+- Worked on AI-driven productivity features involving schedules, notifications, and contextual actions.
+
+## Skills
+
+### 1) Core Technologies
+TypeScript, JavaScript, Python, SQL, Node.js, NestJS, Express.js, React, Next.js, React Native, Redux, PostgreSQL, MongoDB, MySQL, Prisma ORM
+
+### 2) Infrastructure & Engineering
+Docker, Kubernetes, Git, GitHub Actions, REST APIs, WebSockets, System Design, CI/CD, Authentication, RBAC, API Design, Testing, Jest
+
+### 3) AI & Automation
+AI Agents, OpenAI APIs, n8n, Prompt Engineering, Workflow Automation, Cursor, Postman, Swagger
+
+## Contact
+
+Want to build something useful?  
+I’m open to software engineering roles, startup opportunities, freelance engineering work, and technical collaborations.
+
+- **Email:** [josephtaiwodavid@gmail.com](mailto:josephtaiwodavid@gmail.com)
+- **LinkedIn:** https://www.linkedin.com/in/davidjosepht
+- **GitHub:** https://github.com/0xdave1
+
+## Download CV
+
+CV link placeholder (to be replaced with the final portfolio domain/file):
+- # (placeholder)
+
+---
+
+Built by David Joseph — 0xdave
