@@ -27,23 +27,6 @@
 
 <img src="./assets/section-divider.svg" alt="Section divider" width="100%">
 
-## ABOUT
-
-<table>
-  <tr>
-    <td width="68%">
-      I'm <strong>David Zion</strong>, a Full-Stack Software Engineer with three years of experience building modern applications, scalable systems and decentralized products.
-      <br><br>
-      I work across the software development lifecycle, from translating product requirements into technical solutions to designing application architecture, building interfaces, developing APIs, integrating databases and delivering functional products.
-      <br><br>
-      I'm passionate about engineering practical solutions, exploring blockchain technology and continuously improving the way software is designed and built.
-    </td>
-    <td width="32%" align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,solidity,react,nextjs&perline=3&theme=dark" alt="Core technologies">
-    </td>
-  </tr>
-</table>
-
 <br>
 
 ## TECHNOLOGY STACK
