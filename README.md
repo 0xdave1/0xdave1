@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;Web3+%26+Blockchain+Developer;Building+Scalable+Digital+Products;Turning+Ideas+Into+Working+Software" alt="David Zion professional typing introduction">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=A17B56&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;Web3+%26+Blockchain+Developer;Building+Scalable+Digital+Products;Turning+Ideas+Into+Working+Software" alt="David Zion professional typing introduction">
   </a>
 </div>
 
@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xdave1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
+  <a href="https://github.com/0xdave1"><img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=F2F0EB" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/davidjosepht"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
-  <a href="https://x.com/heiszionn"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
+  <a href="https://x.com/heiszionn"><img src="https://img.shields.io/badge/X-090909?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
   <a href="mailto:josephtaiwodavid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"></a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <img src="./assets/section-divider.svg" alt="Section divider" width="100%">
 
-## <img src="https://img.shields.io/badge/-ABOUT-58A6FF?style=flat-square&logoColor=white" alt="About">
+## <img src="https://img.shields.io/badge/-ABOUT-A17B56?style=flat-square&logoColor=FFFFFF" alt="About">
 
 <table>
   <tr>
@@ -46,7 +46,7 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-TECHNOLOGY_STACK-58A6FF?style=flat-square&logoColor=white" alt="Technology stack">
+## <img src="https://img.shields.io/badge/-TECHNOLOGY_STACK-A17B56?style=flat-square&logoColor=FFFFFF" alt="Technology stack">
 
 ### Programming Languages
 
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=FFFFFF" alt="Ethereum">
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=FFFFFF" alt="Solana">
   <img src="https://img.shields.io/badge/Mantle-000000?style=for-the-badge&logoColor=FFFFFF" alt="Mantle">
-  <img src="https://img.shields.io/badge/Foundry-101827?style=for-the-badge&logoColor=58A6FF" alt="Foundry">
+  <img src="https://img.shields.io/badge/Foundry-292929?style=for-the-badge&logoColor=F2F0EB" alt="Foundry">
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=202020" alt="Hardhat">
   <img src="https://img.shields.io/badge/Anchor-2685FF?style=for-the-badge&logoColor=FFFFFF" alt="Anchor">
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=FFFFFF" alt="Web3.js">
@@ -114,7 +114,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=58A6FF" alt="Cursor">
+  <img src="https://img.shields.io/badge/Cursor-090909?style=for-the-badge&logo=cursor&logoColor=F2F0EB" alt="Cursor">
 </p>
 
 <details>
@@ -125,24 +125,24 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-GITHUB_ANALYTICS-58A6FF?style=flat-square&logoColor=white" alt="GitHub analytics">
+## <img src="https://img.shields.io/badge/-GITHUB_ANALYTICS-A17B56?style=flat-square&logoColor=FFFFFF" alt="GitHub analytics">
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=0xdave1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=2685FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=0xdave1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=2685FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E" alt="0xdave1 contribution streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=0xdave1&theme=dark&hide_border=true&background=090909&ring=A17B56&fire=8B674A&currStreakLabel=A17B56&sideLabels=F2F0EB&dates=A6A6A6">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=0xdave1&theme=dark&hide_border=true&background=090909&ring=A17B56&fire=8B674A&currStreakLabel=A17B56&sideLabels=F2F0EB&dates=A6A6A6" alt="0xdave1 contribution streak">
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0xdave1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2685FF&text_color=FFFFFF">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xdave1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2685FF&text_color=FFFFFF" alt="0xdave1 GitHub statistics">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0xdave1&show_icons=true&theme=github_dark&hide_border=true&bg_color=090909&title_color=A17B56&icon_color=8B674A&text_color=F2F0EB">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xdave1&show_icons=true&theme=github_dark&hide_border=true&bg_color=090909&title_color=A17B56&icon_color=8B674A&text_color=F2F0EB" alt="0xdave1 GitHub statistics">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdave1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdave1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="0xdave1 most-used languages">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdave1&layout=compact&theme=github_dark&hide_border=true&bg_color=090909&title_color=A17B56&text_color=F2F0EB">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdave1&layout=compact&theme=github_dark&hide_border=true&bg_color=090909&title_color=A17B56&text_color=F2F0EB" alt="0xdave1 most-used languages">
   </picture>
 </div>
 
@@ -157,10 +157,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdave1&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=2685FF&point=FFFFFF&area=true&area_color=101827" width="95%" alt="0xdave1 contribution activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdave1&theme=react-dark&hide_border=true&bg_color=090909&color=A17B56&line=8B674A&point=F2F0EB&area=true&area_color=1B1B1B" width="95%" alt="0xdave1 contribution activity graph">
 </div>
 
-## <img src="https://img.shields.io/badge/-CONTRIBUTION_MAP-58A6FF?style=flat-square&logoColor=white" alt="Contribution map">
+## <img src="https://img.shields.io/badge/-CONTRIBUTION_MAP-A17B56?style=flat-square&logoColor=FFFFFF" alt="Contribution map">
 
 <div align="center">
   <picture>
@@ -176,7 +176,7 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-FEATURED_PROJECTS-58A6FF?style=flat-square&logoColor=white" alt="Featured projects">
+## <img src="https://img.shields.io/badge/-FEATURED_PROJECTS-A17B56?style=flat-square&logoColor=FFFFFF" alt="Featured projects">
 
 <table>
   <tr>
@@ -215,7 +215,7 @@
 
 <br>
 
-## <img src="https://img.shields.io/badge/-PROFESSIONAL_EXPERIENCE-58A6FF?style=flat-square&logoColor=white" alt="Professional experience">
+## <img src="https://img.shields.io/badge/-PROFESSIONAL_EXPERIENCE-A17B56?style=flat-square&logoColor=FFFFFF" alt="Professional experience">
 
 ```text
 2026 ──  KIOOSK                                      Software Developer
@@ -258,17 +258,17 @@ Builds custom software applications, Web3 products and digital experiences acros
 
 <br>
 
-## <img src="https://img.shields.io/badge/-ENGINEERING_INTERESTS-58A6FF?style=flat-square&logoColor=white" alt="Engineering interests">
+## <img src="https://img.shields.io/badge/-ENGINEERING_INTERESTS-A17B56?style=flat-square&logoColor=FFFFFF" alt="Engineering interests">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Engineering-101827?style=for-the-badge&logoColor=58A6FF" alt="Full-Stack Engineering">
-  <img src="https://img.shields.io/badge/Web_Applications-101827?style=for-the-badge&logoColor=58A6FF" alt="Web Application Development">
-  <img src="https://img.shields.io/badge/Blockchain-101827?style=for-the-badge&logoColor=58A6FF" alt="Blockchain Engineering">
-  <img src="https://img.shields.io/badge/Decentralized_Apps-101827?style=for-the-badge&logoColor=58A6FF" alt="Decentralized Applications">
-  <img src="https://img.shields.io/badge/Smart_Contracts-101827?style=for-the-badge&logoColor=58A6FF" alt="Smart Contract Development">
-  <img src="https://img.shields.io/badge/Backend_Architecture-101827?style=for-the-badge&logoColor=58A6FF" alt="Backend Architecture">
-  <img src="https://img.shields.io/badge/API_Engineering-101827?style=for-the-badge&logoColor=58A6FF" alt="API Engineering">
-  <img src="https://img.shields.io/badge/Scalable_Systems-101827?style=for-the-badge&logoColor=58A6FF" alt="Scalable Software Systems">
+  <img src="https://img.shields.io/badge/Full--Stack_Engineering-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="Full-Stack Engineering">
+  <img src="https://img.shields.io/badge/Web_Applications-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="Web Application Development">
+  <img src="https://img.shields.io/badge/Blockchain-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="Blockchain Engineering">
+  <img src="https://img.shields.io/badge/Decentralized_Apps-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="Decentralized Applications">
+  <img src="https://img.shields.io/badge/Smart_Contracts-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="Smart Contract Development">
+  <img src="https://img.shields.io/badge/Backend_Architecture-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="Backend Architecture">
+  <img src="https://img.shields.io/badge/API_Engineering-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="API Engineering">
+  <img src="https://img.shields.io/badge/Scalable_Systems-1B1B1B?style=for-the-badge&logoColor=A17B56" alt="Scalable Software Systems">
 </p>
 
 <br>
@@ -280,14 +280,14 @@ Builds custom software applications, Web3 products and digital experiences acros
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xdave1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
+  <a href="https://github.com/0xdave1"><img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=F2F0EB" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/davidjosepht"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
-  <a href="https://x.com/heiszionn"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
+  <a href="https://x.com/heiszionn"><img src="https://img.shields.io/badge/X-090909?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
   <a href="mailto:josephtaiwodavid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xdave1&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile visitor count">
+  <img src="https://komarev.com/ghpvc/?username=0xdave1&label=PROFILE+VIEWS&color=A17B56&style=for-the-badge" alt="Profile visitor count">
 </p>
 
 <p align="center">
