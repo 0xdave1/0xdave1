@@ -1,295 +1,111 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/david-zion-hero.svg">
-    <img src="./assets/david-zion-hero.svg" alt="David Zion — Full-Stack & Web3 Engineer" width="100%">
-  </picture>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+Software+Engineer;Web3+%26+Blockchain+Developer;Building+Scalable+Digital+Products;Turning+Ideas+Into+Working+Software" alt="David Zion professional typing introduction">
-  </a>
+  <img src="./assets/david-zion-hero.svg" alt="David Zion — Full-Stack & Web3 Engineer" width="100%">
 </div>
 
 <p align="center">
-  Full-Stack Software Engineer with <strong>3 years of experience</strong> building modern applications,
-  scalable systems and decentralized products in Nigeria.
+  <a href="https://github.com/0xdave1"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2F0EB" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/davidjosepht"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F2F0EB" alt="LinkedIn"></a>
+  <a href="https://x.com/heiszionn"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=F2F0EB" alt="X"></a>
+  <a href="mailto:josephtaiwodavid@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F2F0EB" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xdave1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/davidjosepht"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
-  <a href="https://x.com/heiszionn"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
-  <a href="mailto:josephtaiwodavid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"></a>
+  <code>FULL-STACK SOFTWARE ENGINEER</code>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>WEB3 &amp; BLOCKCHAIN DEVELOPER</code>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <code>SOFTWARE PRODUCT BUILDER</code>
 </p>
 
 <br>
+<img src="./assets/section-divider.svg" alt="" width="100%">
 
-<img src="./assets/section-divider.svg" alt="Section divider" width="100%">
+## About
 
-## <img src="https://img.shields.io/badge/-ABOUT-58A6FF?style=flat-square&logoColor=white" alt="About">
+David Zion is a Full-Stack Software Engineer with three years of experience building modern applications, scalable systems and decentralized products.
+
+He works across frontend and backend engineering, application architecture, APIs, databases, authentication and product development. His focus is practical digital products, well-considered systems and the continued exploration of blockchain technology.
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1100&color=A6A6A6&center=true&vCenter=true&width=720&height=36&lines=Full-Stack+Software+Engineer;Web3+%26+Blockchain+Developer;Software+Product+Builder;Engineering+Scalable+Systems" alt="Animated introduction"></a>
+</div>
+
+<br>
+
+## Selected work
 
 <table>
   <tr>
-    <td width="68%">
-      I'm <strong>David Zion</strong>, a Full-Stack Software Engineer with three years of experience building modern applications, scalable systems and decentralized products.
-      <br><br>
-      I work across the software development lifecycle, from translating product requirements into technical solutions to designing application architecture, building interfaces, developing APIs, integrating databases and delivering functional products.
-      <br><br>
-      I'm passionate about engineering practical solutions, exploring blockchain technology and continuously improving the way software is designed and built.
-    </td>
-    <td width="32%" align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,solidity,react,nextjs&perline=3&theme=dark" alt="Core technologies">
-    </td>
+    <td width="50%" valign="top"><strong>LUCKY SHEEP</strong><br><sub>WEB3 / BLOCKCHAIN GAMING</sub><p>A bilingual blockchain-gaming website preview centered on participation, countdown mechanics and protocol rewards.</p><a href="https://luckysheep.vercel.app/">Live website</a> · <a href="https://github.com/0xdave1/luckysheep">Repository</a></td>
+    <td width="50%" valign="top"><strong>LOTTERY DAPP</strong><br><sub>BLOCKCHAIN / DECENTRALIZED APPLICATION</sub><p>A decentralized Ethereum lottery application built with React and Ethers.js, with Solidity contracts in the repository.</p><a href="https://github.com/0xdave1/lottery-dapp">Repository</a> · <a href="https://0xdave1.github.io/lottery-dapp">Live preview</a></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>VEGAN DAO</strong><br><sub>WEB3 / DAO</sub><p>A DAO and cryptocurrency project built around Vegan Rob's Coin, with React, Ethers.js, Express and Solidity components.</p><a href="https://github.com/0xdave1/Vegans-DAO">Repository</a></td>
+    <td width="50%" valign="top"><strong>TRIGGERLY</strong><br><sub>SOFTWARE DEVELOPMENT / AI TRIGGER AGENT</sub><p>A privacy-first trigger agent featuring an Expo React Native frontend and a NestJS, Prisma and PostgreSQL backend.</p><a href="https://triggerly-self.vercel.app/">Live website</a> · <a href="https://github.com/0xdave1/Triggerly">Repository</a></td>
   </tr>
 </table>
 
 <br>
 
-## <img src="https://img.shields.io/badge/-TECHNOLOGY_STACK-58A6FF?style=flat-square&logoColor=white" alt="Technology stack">
-
-### Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,solidity,rust&perline=8&theme=dark" height="52" alt="JavaScript, TypeScript, Solidity and Rust">
-</p>
-
-### Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=8&theme=dark" height="52" alt="React, Next.js and Tailwind CSS">
-</p>
-
-### Blockchain &amp; Web3 Engineering
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=FFFFFF" alt="Ethereum">
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=FFFFFF" alt="Solana">
-  <img src="https://img.shields.io/badge/Mantle-000000?style=for-the-badge&logoColor=FFFFFF" alt="Mantle">
-  <img src="https://img.shields.io/badge/Foundry-101827?style=for-the-badge&logoColor=58A6FF" alt="Foundry">
-  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=202020" alt="Hardhat">
-  <img src="https://img.shields.io/badge/Anchor-2685FF?style=for-the-badge&logoColor=FFFFFF" alt="Anchor">
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=FFFFFF" alt="Web3.js">
-  <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=FFFFFF" alt="Ethers.js">
-  <img src="https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logoColor=FFFFFF" alt="Wagmi">
-</p>
-
-### Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=8&theme=dark" height="52" alt="Node.js and Express.js">
-</p>
-
-### Databases &amp; Backend Services
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,firebase&perline=8&theme=dark" height="52" alt="PostgreSQL, MongoDB, Redis, Supabase and Firebase">
-</p>
-
-### DevOps &amp; Cloud Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,vercel,nginx,linux&perline=10&theme=dark" height="52" alt="Docker, Kubernetes, Terraform, AWS, Vercel, Nginx and Linux">
-</p>
-
-### CI/CD &amp; Automation
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins&perline=8&theme=dark" height="52" alt="Git, GitHub, GitHub Actions and Jenkins">
-</p>
-
-### API Development &amp; Testing
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,playwright&perline=8&theme=dark" height="52" alt="Postman and Playwright">
-</p>
-
-### Monitoring &amp; Error Tracking
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sentry&perline=8&theme=dark" height="52" alt="Sentry">
-</p>
-
-### AI-Assisted Development
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Cursor-0D1117?style=for-the-badge&logo=cursor&logoColor=58A6FF" alt="Cursor">
-</p>
-
-<details>
-  <summary><strong>Engineering stack at a glance</strong></summary>
-
-  JavaScript · TypeScript · Solidity · Rust · React · Next.js · Tailwind CSS · Ethereum · Solana · Mantle · Foundry · Hardhat · Anchor · Web3.js · Ethers.js · Wagmi · Node.js · Express.js · PostgreSQL · MongoDB · Redis · Supabase · Firebase · Docker · Kubernetes · Terraform · AWS · Vercel · Nginx · Linux · Git · GitHub · GitHub Actions · Jenkins · Postman · Playwright · Sentry · Claude Code · Cursor
-</details>
-
-<br>
-
-## <img src="https://img.shields.io/badge/-GITHUB_ANALYTICS-58A6FF?style=flat-square&logoColor=white" alt="GitHub analytics">
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=0xdave1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=2685FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=0xdave1&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=2685FF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E" alt="0xdave1 contribution streak">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=0xdave1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2685FF&text_color=FFFFFF">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xdave1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2685FF&text_color=FFFFFF" alt="0xdave1 GitHub statistics">
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdave1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdave1&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF" alt="0xdave1 most-used languages">
-  </picture>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xdave1&theme=github_dark" alt="0xdave1 repository language distribution">
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xdave1&theme=github_dark" alt="0xdave1 commit language distribution">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0xdave1&theme=github_dark&utcOffset=1" alt="0xdave1 productive time">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xdave1&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=2685FF&point=FFFFFF&area=true&area_color=101827" width="95%" alt="0xdave1 contribution activity graph">
-</div>
-
-## <img src="https://img.shields.io/badge/-CONTRIBUTION_MAP-58A6FF?style=flat-square&logoColor=white" alt="Contribution map">
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xdave1/0xdave1/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/0xdave1/0xdave1/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<details>
-  <summary><strong>Automated contribution artwork</strong></summary>
-  The snake SVG is generated on a schedule and after pushes to the profile repository by the <code>Generate Contribution Snake</code> GitHub Actions workflow.
-</details>
-
-<br>
-
-## <img src="https://img.shields.io/badge/-FEATURED_PROJECTS-58A6FF?style=flat-square&logoColor=white" alt="Featured projects">
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Lucky Sheep</h3>
-      <p><strong>Web3 / Blockchain Gaming</strong></p>
-      <p>A bilingual blockchain-gaming website preview centered on participation, countdown mechanics and protocol rewards. The repository explicitly identifies wallet actions and live protocol features as unavailable.</p>
-      <p><sub>HTML · JavaScript · Static web</sub></p>
-      <p><a href="https://luckysheep.vercel.app/">Live website</a> · <a href="https://github.com/0xdave1/luckysheep">Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Lottery DApp</h3>
-      <p><strong>Blockchain / Decentralized Application</strong></p>
-      <p>A decentralized Ethereum lottery application built with React and Ethers.js, with Solidity contracts in the repository.</p>
-      <p><sub>JavaScript · React · Solidity · Ethers.js</sub></p>
-      <p><a href="https://github.com/0xdave1/lottery-dapp">Repository</a> · <a href="https://0xdave1.github.io/lottery-dapp">Live preview</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Vegan DAO</h3>
-      <p><strong>Web3 / DAO</strong></p>
-      <p>A DAO and cryptocurrency project built around Vegan Rob's Coin, with React, Ethers.js, Express and Solidity components.</p>
-      <p><sub>JavaScript · React · Solidity · Ethers.js · Express</sub></p>
-      <p><a href="https://github.com/0xdave1/Vegans-DAO">Repository</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Triggerly</h3>
-      <p><strong>Software Development / AI Trigger Agent</strong></p>
-      <p>A privacy-first trigger agent featuring an Expo React Native frontend and a NestJS, Prisma and PostgreSQL backend.</p>
-      <p><sub>TypeScript · React Native · NestJS · Prisma · PostgreSQL</sub></p>
-      <p><a href="https://triggerly-self.vercel.app/">Live website</a> · <a href="https://github.com/0xdave1/Triggerly">Repository</a></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## <img src="https://img.shields.io/badge/-PROFESSIONAL_EXPERIENCE-58A6FF?style=flat-square&logoColor=white" alt="Professional experience">
+## Experience
 
 ```text
-2026 ──  KIOOSK                                      Software Developer
-         Frontend-first product engineering across interfaces, APIs and backend services
-         Website: https://kioosk.online
-
-2025 ──  COHOLD                                       Software Engineer
-         Architecture, frontend, backend, APIs and database integration
-         Website: https://cohold.co
-
-NOW  ──  FREELANCE SOFTWARE DEVELOPMENT               Independent Engineer
-         Client work and personal products across full-stack and Web3 systems
+┌──────────────────────────────────────────────────────────────────────────┐
+│  2026  /  KIOOSK                                                         │
+│  Software Developer                                                       │
+│  Frontend-first product engineering across interfaces, APIs and services  │
+│  kioosk.online                                                            │
+├──────────────────────────────────────────────────────────────────────────┤
+│  2025  /  COHOLD                                                         │
+│  Software Engineer                                                        │
+│  Architecture, frontend, backend, APIs and database integration          │
+│  cohold.co                                                                │
+├──────────────────────────────────────────────────────────────────────────┤
+│  NOW   /  FREELANCE SOFTWARE DEVELOPMENT                                  │
+│  Independent Engineer                                                     │
+│  Client work and personal products across full-stack and Web3 systems     │
+└──────────────────────────────────────────────────────────────────────────┘
 ```
 
-### CoHold
-**Software Engineer · October 2025 – Present**
-
-CoHold is a fractional real-estate investment platform that enables people to collectively invest in property.
-
-- Contributes across frontend and backend development.
-- Works on application architecture, interfaces, APIs and database integration.
-- Implements authentication and core product functionality.
-- Contributes to technical decisions and engineering direction.
-- [cohold.co](https://cohold.co)
-
-### Kioosk
-**Software Developer · September 2026 – Present**
-
-David primarily focuses on frontend engineering while contributing to backend development when required.
-
-- Builds responsive user interfaces and application features.
-- Integrates APIs and connects frontend components with backend services.
-- Supports product functionality and maintainability.
-- [kioosk.online](https://kioosk.online)
-
-### Freelance Software Development
-**Independent client projects and personal development**
-
-Builds custom software applications, Web3 products and digital experiences across the full development lifecycle.
-
 <br>
 
-## <img src="https://img.shields.io/badge/-ENGINEERING_INTERESTS-58A6FF?style=flat-square&logoColor=white" alt="Engineering interests">
+## Technology
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack_Engineering-101827?style=for-the-badge&logoColor=58A6FF" alt="Full-Stack Engineering">
-  <img src="https://img.shields.io/badge/Web_Applications-101827?style=for-the-badge&logoColor=58A6FF" alt="Web Application Development">
-  <img src="https://img.shields.io/badge/Blockchain-101827?style=for-the-badge&logoColor=58A6FF" alt="Blockchain Engineering">
-  <img src="https://img.shields.io/badge/Decentralized_Apps-101827?style=for-the-badge&logoColor=58A6FF" alt="Decentralized Applications">
-  <img src="https://img.shields.io/badge/Smart_Contracts-101827?style=for-the-badge&logoColor=58A6FF" alt="Smart Contract Development">
-  <img src="https://img.shields.io/badge/Backend_Architecture-101827?style=for-the-badge&logoColor=58A6FF" alt="Backend Architecture">
-  <img src="https://img.shields.io/badge/API_Engineering-101827?style=for-the-badge&logoColor=58A6FF" alt="API Engineering">
-  <img src="https://img.shields.io/badge/Scalable_Systems-101827?style=for-the-badge&logoColor=58A6FF" alt="Scalable Software Systems">
-</p>
+<details>
+  <summary><strong>View the engineering stack</strong></summary>
+  <br>
+
+  **PROGRAMMING**
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"> <img src="https://img.shields.io/badge/Solidity-111111?style=for-the-badge&logo=solidity&logoColor=F2F0EB" alt="Solidity"> <img src="https://img.shields.io/badge/Rust-111111?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust">
+
+  **FRONTEND**
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js"> <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+
+  **BLOCKCHAIN &amp; WEB3**
+  <img src="https://img.shields.io/badge/Ethereum-111111?style=for-the-badge&logo=ethereum&logoColor=627EEA" alt="Ethereum"> <img src="https://img.shields.io/badge/Solana-111111?style=for-the-badge&logo=solana&logoColor=9945FF" alt="Solana"> <img src="https://img.shields.io/badge/Mantle-111111?style=for-the-badge" alt="Mantle"> <img src="https://img.shields.io/badge/Foundry-111111?style=for-the-badge" alt="Foundry"> <img src="https://img.shields.io/badge/Hardhat-111111?style=for-the-badge&logo=hardhat&logoColor=FFF100" alt="Hardhat"> <img src="https://img.shields.io/badge/Anchor-111111?style=for-the-badge" alt="Anchor"> <img src="https://img.shields.io/badge/Web3.js-111111?style=for-the-badge&logo=web3dotjs&logoColor=F16822" alt="Web3.js"> <img src="https://img.shields.io/badge/Ethers.js-111111?style=for-the-badge&logo=ethereum&logoColor=627EEA" alt="Ethers.js"> <img src="https://img.shields.io/badge/Wagmi-111111?style=for-the-badge" alt="Wagmi">
+
+  **BACKEND**
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"> <img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js">
+
+  **DATABASES**
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"> <img src="https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis"> <img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3FCF8E" alt="Supabase"> <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
+
+  **DEVOPS &amp; INFRASTRUCTURE**
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"> <img src="https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=844FBA" alt="Terraform"> <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"> <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel"> <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx"> <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+
+  **CI/CD**
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2F0EB" alt="GitHub"> <img src="https://img.shields.io/badge/GitHub_Actions-111111?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Jenkins-111111?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins">
+
+  **TESTING &amp; MONITORING**
+  <img src="https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman"> <img src="https://img.shields.io/badge/Playwright-111111?style=for-the-badge&logo=playwright&logoColor=45BA4B" alt="Playwright"> <img src="https://img.shields.io/badge/Sentry-111111?style=for-the-badge&logo=sentry&logoColor=F2F0EB" alt="Sentry">
+
+  **AI-ASSISTED DEVELOPMENT**
+  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=D4A27F" alt="Claude Code"> <img src="https://img.shields.io/badge/Cursor-111111?style=for-the-badge&logo=cursor&logoColor=FFFFFF" alt="Cursor">
+</details>
 
 <br>
-
-<h2 align="center">LET'S BUILD SOMETHING GREAT.</h2>
-
-<p align="center">
-  Open to meaningful engineering challenges, innovative products, technical collaborations and opportunities to build impactful software.
-</p>
-
-<p align="center">
-  <a href="https://github.com/0xdave1"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/davidjosepht"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
-  <a href="https://x.com/heiszionn"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"></a>
-  <a href="mailto:josephtaiwodavid@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xdave1&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" alt="Profile visitor count">
-</p>
-
-<p align="center">
-  <em>Building with purpose. Engineering with precision.</em>
-</p>
+<div align="center">
+  <img src="./assets/section-divider.svg" alt="" width="100%">
+  <br><br><strong>BUILDING WITH PURPOSE. ENGINEERING WITH PRECISION.</strong><br><br>
+  <a href="mailto:josephtaiwodavid@gmail.com">josephtaiwodavid@gmail.com</a>
+</div>
