@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">David Zion — Build. Think. Engineer.</title>
-  <desc id="desc">A monochromatic David Zion banner with a geometric DZ monogram.</desc>
-  <rect width="1200" height="300" rx="18" fill="#090909"/>
-  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#383838"/>
-  <path d="M54 54h74M54 246h370M1080 54h66M1080 246h66" stroke="#A6A6A6" stroke-width="2"/>
-  <path d="M930 82h164v136H930zM952 104h120v92H952z" fill="none" stroke="#383838"/>
-  <path d="M974 174V126h28c18 0 28 9 28 24s-10 24-28 24h-28Zm80-48h46l-46 48h46" fill="none" stroke="#F2F2F2" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
-  <text x="54" y="128" fill="#FFFFFF" font-family="Manrope, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="3">DAVID ZION</text>
-  <text x="58" y="178" fill="#A6A6A6" font-family="JetBrains Mono, Consolas, monospace" font-size="24" font-weight="700" letter-spacing="4">FULL-STACK &amp; WEB3 ENGINEER</text>
-  <text x="58" y="221" fill="#A6A6A6" font-family="JetBrains Mono, Consolas, monospace" font-size="17" letter-spacing="1.5">BUILD. THINK. ENGINEER.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">David Zion — Full-Stack and Web3 Engineer</title>
+  <desc id="desc">A restrained black and ivory identity banner for David Zion.</desc>
+  <rect width="1200" height="320" rx="18" fill="#090909"/>
+  <path d="M820 0v320M920 0v320M1020 0v320M1120 0v320M0 80h1200M0 160h1200M0 240h1200" stroke="#242424" stroke-width="1"/>
+  <path d="M0 278h1200" stroke="#8B674A" stroke-width="2"/>
+  <text x="64" y="92" fill="#8B674A" font-family="JetBrains Mono, Consolas, monospace" font-size="18" font-weight="700" letter-spacing="5">DZ / 001</text>
+  <text x="60" y="174" fill="#F2F0EB" font-family="Manrope, Inter, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="2">DAVID ZION</text>
+  <text x="64" y="220" fill="#A6A6A6" font-family="JetBrains Mono, Consolas, monospace" font-size="20" font-weight="500" letter-spacing="3">FULL-STACK &amp; WEB3 ENGINEER</text>
+  <text x="64" y="262" fill="#A6A6A6" font-family="Inter, Arial, sans-serif" font-size="16" letter-spacing=".5">Building scalable applications, engineering digital experiences.</text>
+  <text x="1050" y="226" fill="#F2F0EB" font-family="Manrope, Inter, Arial, sans-serif" font-size="120" font-weight="800" text-anchor="middle" opacity=".92">DZ</text>
 </svg>
