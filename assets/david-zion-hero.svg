@@ -1,29 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">David Zion - Full-Stack and Web3 Engineer</title>
-  <desc id="desc">A dark luxury developer banner with a restrained bronze grid and engineering motif.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090909"/>
-      <stop offset="0.65" stop-color="#1B1B1B"/>
-      <stop offset="1" stop-color="#090909"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#A17B56" stroke-opacity=".12" stroke-width="1"/>
-    </pattern>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-  <circle cx="1060" cy="150" r="118" fill="none" stroke="#A17B56" stroke-opacity=".18" stroke-width="2"/>
-  <circle cx="1060" cy="150" r="82" fill="none" stroke="#8B674A" stroke-opacity=".28" stroke-width="2"/>
-  <path d="M1060 68v164M978 150h164M1002 92l116 116M1118 92l-116 116" fill="none" stroke="#A17B56" stroke-opacity=".2"/>
-  <circle cx="1060" cy="150" r="12" fill="#A17B56" filter="url(#glow)"/>
-  <rect x="54" y="54" width="64" height="4" rx="2" fill="#A17B56"/>
-  <text x="54" y="128" fill="#FFFFFF" font-family="JetBrains Mono, Consolas, monospace" font-size="68" font-weight="800" letter-spacing="3">DAVID ZION</text>
-  <text x="58" y="178" fill="#A17B56" font-family="JetBrains Mono, Consolas, monospace" font-size="25" font-weight="700" letter-spacing="4">FULL-STACK &amp; WEB3 ENGINEER</text>
-  <text x="58" y="221" fill="#A6A6A6" font-family="JetBrains Mono, Consolas, monospace" font-size="17" letter-spacing="1.5">BUILDING SCALABLE DIGITAL EXPERIENCES.</text>
-  <rect x="54" y="246" width="370" height="2" fill="#8B674A" opacity=".8"/>
+  <title id="title">David Zion — Build. Think. Engineer.</title>
+  <desc id="desc">A monochromatic David Zion banner with a geometric DZ monogram.</desc>
+  <rect width="1200" height="300" rx="18" fill="#090909"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="none" stroke="#383838"/>
+  <path d="M54 54h74M54 246h370M1080 54h66M1080 246h66" stroke="#A6A6A6" stroke-width="2"/>
+  <path d="M930 82h164v136H930zM952 104h120v92H952z" fill="none" stroke="#383838"/>
+  <path d="M974 174V126h28c18 0 28 9 28 24s-10 24-28 24h-28Zm80-48h46l-46 48h46" fill="none" stroke="#F2F2F2" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="54" y="128" fill="#FFFFFF" font-family="Manrope, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="3">DAVID ZION</text>
+  <text x="58" y="178" fill="#A6A6A6" font-family="JetBrains Mono, Consolas, monospace" font-size="24" font-weight="700" letter-spacing="4">FULL-STACK &amp; WEB3 ENGINEER</text>
+  <text x="58" y="221" fill="#A6A6A6" font-family="JetBrains Mono, Consolas, monospace" font-size="17" letter-spacing="1.5">BUILD. THINK. ENGINEER.</text>
 </svg>
